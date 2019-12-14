@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleAreaandPerimeter", "CircleAreaandPerimeter\CircleAreaandPerimeter.csproj", "{AEAC4704-3EDC-468D-93DF-402E55178BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEAC4704-3EDC-468D-93DF-402E55178BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAC4704-3EDC-468D-93DF-402E55178BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAC4704-3EDC-468D-93DF-402E55178BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAC4704-3EDC-468D-93DF-402E55178BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E79B530-D031-4C4C-993C-A3194251ADA7}
+	EndGlobalSection
+EndGlobal

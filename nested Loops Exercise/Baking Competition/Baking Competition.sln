@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baking Competition", "Baking Competition\Baking Competition.csproj", "{FE686ED1-5A87-4F2D-8F6D-1CEE4D3B7B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE686ED1-5A87-4F2D-8F6D-1CEE4D3B7B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE686ED1-5A87-4F2D-8F6D-1CEE4D3B7B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE686ED1-5A87-4F2D-8F6D-1CEE4D3B7B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE686ED1-5A87-4F2D-8F6D-1CEE4D3B7B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59546633-802B-4013-8529-6C64C5269D32}
+	EndGlobalSection
+EndGlobal

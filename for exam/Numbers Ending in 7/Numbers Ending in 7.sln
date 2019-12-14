@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers Ending in 7", "Numbers Ending in 7\Numbers Ending in 7.csproj", "{A3B6D265-DC4B-4F5C-90A7-5FC532B2FE24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3B6D265-DC4B-4F5C-90A7-5FC532B2FE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B6D265-DC4B-4F5C-90A7-5FC532B2FE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B6D265-DC4B-4F5C-90A7-5FC532B2FE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B6D265-DC4B-4F5C-90A7-5FC532B2FE24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F89107-3AB6-4677-894E-2A2DF3E955F8}
+	EndGlobalSection
+EndGlobal
